@@ -1,0 +1,6 @@
+print("HPC")
+print("Envirnment")
+print("Devops")
+print("Communication")
+print("Capstone")
+print("Undergrad Research")
